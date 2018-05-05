@@ -1,0 +1,26 @@
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\bin\Debug\Pert10.exe
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\bin\Debug\Pert10.pdb
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\bin\Debug\Pert10.xml
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.Form1.resources
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.Resources.resources
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.vbproj.GenerateResource.Cache
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.exe
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.xml
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.pdb
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.Form2.resources
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.Form3.resources
+C:\Users\7\AppData\Local\Temporary Projects\Pert10\obj\x86\Debug\Pert10.Form4.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.exe
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.xml
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.pdb
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\bin\Debug\Pert10.exe
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\bin\Debug\Pert10.pdb
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\bin\Debug\Pert10.xml
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form1.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form2.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form3.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form4.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form5.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Resources.resources
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.vbproj.GenerateResource.Cache
+C:\Users\7\documents\visual studio 2010\Projects\Pert10\Pert10\obj\x86\Debug\Pert10.Form6.resources
